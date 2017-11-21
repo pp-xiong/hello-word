@@ -1,0 +1,2 @@
+# hello-word
+say hi
